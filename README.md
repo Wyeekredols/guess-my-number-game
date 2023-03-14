@@ -1,5 +1,3 @@
-# guess-my-number-game
-
 # Project Title
 
 A simple guessing game

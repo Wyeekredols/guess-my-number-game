@@ -14,7 +14,7 @@ This is a simple game that can be played on your browser by yourself by guessing
 
 ### Installing
 
-* You can download this from xxxxxxx.
+* You can download this from https://github.com/Wyeekredols/guess-my-number-game.git.
 * CSS can be modified.
 
 ### Executing program
